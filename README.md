@@ -4,7 +4,7 @@
 
 The To-Do List Application is a simple web-based task management system developed using Flask and MySQL. The application allows users to manage their daily tasks efficiently by providing functionalities such as adding new tasks, viewing existing tasks, marking tasks as completed, and deleting tasks.
 
-This project demonstrates the fundamentals of web application development, including database connectivity, CRUD operations, routing, form handling, and user interaction through a web interface.
+This project demonstrates the fundamentals of web application development, including database connectivity, CRUD operations, routing, form handling, and user interaction through a web interface.   
 
 ---
 
